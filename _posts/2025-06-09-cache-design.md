@@ -9,7 +9,7 @@
 cache line = cache block
 cache block size - the size of the data field of a cache 
 
-![cache](/assets/images/cacheline.webp)
+<img class="image" src="/assets/images/cacheline.webp">
 
 main memory means the whole memory space to be mapped to the cache.
 
